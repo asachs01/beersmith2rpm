@@ -1,0 +1,2 @@
+# BeerSmith2 RPM
+This *should* be a working copy of BeerSmith2 in RPM form. DEB packages are available for download on the [main BeerSmith website](http://beersmith.com/download-beersmith/). The version here is 2.3.7 rebuilt from the available .deb package for Ubuntu 16.04 LTS 64 bit. 
